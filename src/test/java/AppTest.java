@@ -9,4 +9,8 @@ public class AppTest {
     public void testApp() {
         assertEquals(1,1);
     }
+
+    public void testApp1() {
+        assertEquals(1, 2);
+    }
 }
